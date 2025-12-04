@@ -36,9 +36,9 @@ Download or clone this repository to your computer.
 Step 2 — Open Chrome Extensions
 
 Go to:
-
+```
 chrome://extensions/
-
+```
 
 Enable Developer Mode (top-right corner).
 
