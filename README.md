@@ -26,8 +26,8 @@ It was built for automation practice and educational purposes.
 ├── popup.html           # UI for input fields
 ├── popup.js             # Handles input + sends message
 ├── icon.png             # Extension icon
-└── README.md            # Documentation```
-
+└── README.md            # Documentation
+```
 **🛠️ Installation Instructions**
 Step 1 — Download the project
 
