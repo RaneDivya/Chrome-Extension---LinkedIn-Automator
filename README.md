@@ -18,7 +18,7 @@ It was built for automation practice and educational purposes.
 🧩 Easy-to-use popup interface
 
 **📁 Project Structure**
-linkedin-automator-extension/
+```linkedin-automator-extension/
 │
 ├── manifest.json        # Chrome Extension configuration
 ├── background.js        # Opens the feed, injects script
@@ -26,7 +26,7 @@ linkedin-automator-extension/
 ├── popup.html           # UI for input fields
 ├── popup.js             # Handles input + sends message
 ├── icon.png             # Extension icon
-└── README.md            # Documentation
+└── README.md            # Documentation```
 
 **🛠️ Installation Instructions**
 Step 1 — Download the project
