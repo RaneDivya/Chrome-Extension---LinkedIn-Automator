@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Banao LinkedIn Automator",
+  "version": "1.1",
+  "description": "Automatically likes and comments on LinkedIn feed posts.",
+
+  "permissions": [
+    "tabs",
+    "scripting",
+    "activeTab",
+    "storage"
+  ],
+
+  "host_permissions": [
+    "https://www.linkedin.com/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
